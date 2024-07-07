@@ -1,0 +1,19 @@
+{
+  "name": "luffy_bot",
+  "version": "1.0.0",
+  "description": "custom bot for discord",
+  "main": "bot.js",
+  "scripts": {
+    "build": "node deploy-commands.js",
+    "start": "node ."
+  },
+  "author": "Truce R",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.8",
+    "node-fetch": "^3.3.2",
+    "@google-cloud/translate": "^8.2.0",
+    "google-auth-library": "^9.9.0"
+  }
+}
