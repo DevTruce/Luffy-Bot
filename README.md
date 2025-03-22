@@ -546,8 +546,6 @@ Thank you for considering contributing to the Luffy Bot project!
 
 Email: [DevTruce@Outlook.com]()
 
-Discord: [xzypher.]()
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
