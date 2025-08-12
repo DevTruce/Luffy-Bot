@@ -579,7 +579,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [product-link]: https://devtruce.github.io/Luffy-Bot/
 [autoTranslateAndRelayAnnouncements-video]: src/imgs/announcements.gif
 [autoTranslateAndRelayMessages-video]: src/imgs/messages.gif
-[consoleLogs1-screenshot]: src/imgs/consoleLogs1.png
+[consoleLogs1-screenshot]: src/imgs/consoleLogs1.png 
 [consoleLogs2-screenshot]: src/imgs/consoleLogs2.png
 [reactionTranslate-screenshot]: src/imgs/reactionTranslate.png
 [keywordTriggers-screenshot]: src/imgs/keywordTriggers.png
